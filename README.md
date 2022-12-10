@@ -9,7 +9,7 @@ of the bug.
 - `MacOS`
 
 ```bash
-wget https://github.com/y0rune/fortios-release/blob/main/release/fortios-release-darwin-amd64 -O fortios-release
+wget https://github.com/y0rune/fortios-release/releases/latest/download/fortios-release-darwin-amd64 -O fortios-release
 chmod +x fortios-release
 ./fortios-release
 ```
@@ -17,7 +17,7 @@ chmod +x fortios-release
 - `amd64`
 
 ```bash
-wget https://github.com/y0rune/fortios-release/blob/main/release/fortios-release-darwin-amd64 -O fortios-release
+wget https://github.com/y0rune/fortios-release/releases/latest/download/fortios-release-linux-amd64 -O fortios-release
 chmod +x fortios-release
 ./fortios-release
 ```
@@ -25,7 +25,7 @@ chmod +x fortios-release
 - `arm64`
 
 ```bash
-wget https://github.com/y0rune/fortios-release/blob/main/release/fortios-release-darwin-arm -O fortios-release
+wget https://github.com/y0rune/fortios-release/releases/latest/download/fortios-release-linux-arm64 -O fortios-release
 chmod +x fortios-release
 ./fortios-release
 ```
@@ -33,7 +33,7 @@ chmod +x fortios-release
 - `arm`
 
 ```bash
-wget https://github.com/y0rune/fortios-release/blob/main/release/fortios-release-darwin-amd64 -O fortios-release
+wget https://github.com/y0rune/fortios-release/releases/latest/download/fortios-release-linux-arm -O fortios-release
 chmod +x fortios-release
 ./fortios-release
 ```
